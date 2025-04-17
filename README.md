@@ -1,3 +1,3 @@
 # Test
 This is my first git repository<br>
-Author-Sumit Lohani
+Author-Sumit Lohani (Haldwani)
